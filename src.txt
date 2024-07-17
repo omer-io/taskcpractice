@@ -4,3 +4,5 @@ hello feature 1
 hello people!
 hello!
 line 5 from main
+line 6 from branch 2
+7 from feature 2
